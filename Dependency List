@@ -1,0 +1,13 @@
+Dependency List
+Python 2.7
+python libraries required
+numpy,scipy,matplotlib,python-mnist,pandas,math,sklearn.metrics,python-tk
+
+Eg Installations
+pip install numpy
+pip install scipy
+pip install matplotlib
+pip install python-mnist
+pip install pandas
+pip install scikit-learn
+sudo apt-get install python-tk
